@@ -1,0 +1,6 @@
+IGUI_TH = {
+    IGUI_SearchMode_Categories_FishBait = "ปลาเล็ก",
+    IGUI_SearchMode_Categories_ForestRarities = "กระต่ายป่า",
+    IGUI_SearchMode_Categories_WildHerbs = "สมุนไพรป่า",
+    IGUI_SearchMode_Categories_DeadAnimals = "ซากสัตว์ตาย",
+}
